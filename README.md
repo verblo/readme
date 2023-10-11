@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/verblo/VeeQ/output/snake.svg" alt="Snake animation" />
+  ![Snake animation](https://github.com/verblo/VeeQ/blob/output/github-contribution-grid-snake.svg)
 
 ###
