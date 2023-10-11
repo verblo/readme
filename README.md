@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/verblo/verblo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/verblo/VeeQ/output/snake.svg" alt="Snake animation" />
 
 ###
