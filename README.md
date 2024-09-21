@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/ecKkq2P8cT" target="_blank">
+  <a href="https://discord.gg/vaE4wu6zsD" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=Join For Support!&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
